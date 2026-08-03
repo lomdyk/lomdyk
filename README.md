@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner with high-contrast electric violet (#5739FB) & deep purple gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=57,39,251,30,18,69,87,61,255&height=200&section=header&text=VICTOR%20LYCHAGIN&fontSize=48&fontAlignY=36&animation=twinkle" width="100%" />
+  <!-- Header Banner with explicit white text (#ffffff) and electric violet wave (#5739FB) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5739FB&height=200&section=header&text=VICTOR%20LYCHAGIN&fontSize=48&fontAlignY=36&textColor=ffffff&animation=twinkle" width="100%" />
 
   <!-- Animated Typing Subtitle with IBM Plex Mono font -->
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- Contact & Social Badges - Unified Electric Violet #5739FB Style (Style 1) -->
+  <!-- Contact & Social Badges - Unified Electric Violet #5739FB Style -->
   <a href="https://victorlychagin.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-victorlychagin.vercel.app-5739FB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/victor-lychagin"><img src="https://img.shields.io/badge/LINKEDIN-Victor_Lychagin-5739FB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://behance.net/victorlychagin"><img src="https://img.shields.io/badge/BEHANCE-victorlychagin-5739FB?style=for-the-badge&logo=behance&logoColor=white" /></a>
