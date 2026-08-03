@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner with explicit white text (#ffffff) and electric violet wave (#5739FB) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5739FB&height=200&section=header&text=VICTOR%20LYCHAGIN&fontSize=48&fontAlignY=36&textColor=ffffff&animation=twinkle" width="100%" />
+  <!-- Custom Header Banner using Victor's exact Gridular Font & Portfolio Design System -->
+  <img src="./header.svg" width="100%" alt="Victor Lychagin Header Banner" />
+
+  <br/><br/>
 
   <!-- Animated Typing Subtitle with IBM Plex Mono font -->
   <a href="https://git.io/typing-svg">
@@ -66,7 +68,7 @@
 ![Framer](https://img.shields.io/badge/Framer-5739FB?style=for-the-badge&logo=framer&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-5739FB?style=for-the-badge&logo=spline&logoColor=white)
 ![ProtoPie](https://img.shields.io/badge/ProtoPie-5739FB?style=for-the-badge&logo=protopie&logoColor=white)
-![Spatial UI](https://img.shields.io/badge/Spatial_UI-5739FB?style=for-the-badge&logoColor=white)
+![Spatial UI](https://img.shields.io/badge/Spatial_UI-5739FB?style=for-the-badge&logo=white)
 
 #### Engineering & Code
 ![React](https://img.shields.io/badge/React-5739FB?style=for-the-badge&logo=react&logoColor=white)
