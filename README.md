@@ -1,20 +1,20 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,36,45&height=190&section=header&text=VICTOR%20LYCHAGIN&fontSize=42&fontAlignY=36&animation=twinkle" width="100%" />
+  <!-- Header Banner matching Portfolio Palette (#1E1245 & #5739FB) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=14,10,32,30,18,69,87,57,251&height=200&section=header&text=VICTOR%20LYCHAGIN&fontSize=42&fontAlignY=36&animation=twinkle" width="100%" />
 
-  <!-- Animated Typing Subtitle -->
+  <!-- Animated Typing Subtitle with IBM Plex Mono font & Electric Violet #5739FB -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9B1D6&center=true&vCenter=true&width=700&lines=UX+%2F+UI+Designer+%26+Creative+Developer;Bridging+Figma+to+Production+with+React+%26+AI;Product+Designer+based+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA;Building+high-conversion+digital+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=20&pause=1000&color=5739FB&center=true&vCenter=true&width=700&lines=UX+%2F+UI+Designer+%26+Creative+Developer;Bridging+Figma+to+Production+with+React+%26+AI;Product+Designer+based+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA;Building+high-conversion+digital+experiences" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Contact & Social Badges -->
-  <a href="https://victorlychagin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-victorlychagin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/victor-lychagin"><img src="https://img.shields.io/badge/LinkedIn-Victor_Lychagin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://behance.net/victorlychagin"><img src="https://img.shields.io/badge/Behance-victorlychagin-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="mailto:viclyberlin@gmail.com"><img src="https://img.shields.io/badge/Email-viclyberlin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- Contact & Social Badges in Portfolio Colors -->
+  <a href="https://victorlychagin.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-victorlychagin.vercel.app-5739FB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/victor-lychagin"><img src="https://img.shields.io/badge/LINKEDIN-Victor_Lychagin-1E1245?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://behance.net/victorlychagin"><img src="https://img.shields.io/badge/BEHANCE-victorlychagin-5739FB?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="mailto:viclyberlin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-viclyberlin%40gmail.com-1E1245?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -62,26 +62,26 @@
 <div align="center">
 
 #### Design & Prototyping
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)
-![ProtoPie](https://img.shields.io/badge/ProtoPie-FF5200?style=for-the-badge&logo=protopie&logoColor=white)
-![Spatial UI](https://img.shields.io/badge/Spatial_UI-00F0FF?style=for-the-badge&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-5739FB?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-1E1245?style=for-the-badge&logo=framer&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-5739FB?style=for-the-badge&logo=spline&logoColor=white)
+![ProtoPie](https://img.shields.io/badge/ProtoPie-1E1245?style=for-the-badge&logo=protopie&logoColor=white)
+![Spatial UI](https://img.shields.io/badge/Spatial_UI-5739FB?style=for-the-badge&logoColor=white)
 
 #### Engineering & Code
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shopify Liquid](https://img.shields.io/badge/Shopify_Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![React](https://img.shields.io/badge/React-5739FB?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E1245?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5739FB?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1E1245?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5739FB?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E1245?style=for-the-badge&logo=python&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/Shopify_Liquid-5739FB?style=for-the-badge&logo=shopify&logoColor=white)
 
 #### AI & Workflow
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1E1245?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-5739FB?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1E1245?style=for-the-badge&logo=openai&logoColor=white)
+![v0](https://img.shields.io/badge/v0-5739FB?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -92,16 +92,13 @@
 <div align="center">
 
 <a href="https://github.com/lomdyk">
-  <img src="https://github-readme-stats.vercel.app/api?username=lomdyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Victor's GitHub Stats" />
-</a>
-<a href="https://github.com/lomdyk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomdyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=lomdyk&background=1E1245&ring=5739FB&fire=5739FB&currStreakNum=FFFFFF&currStreakLabel=5739FB&sideNums=FFFFFF&sideLabels=5739FB&dates=FFFFFF&border=5739FB" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/lomdyk">
-  <img src="https://streak-stats.demolab.com/?user=lomdyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lomdyk&bg_color=1E1245&color=5739FB&line=5739FB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </a>
 
 </div>
