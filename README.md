@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- Contact & Social Badges -->
-  <a href="https://victorlychagin.webflow.io"><img src="https://img.shields.io/badge/Portfolio-victorlychagin.webflow.io-4353FF?style=for-the-badge&logo=webflow&logoColor=white" /></a>
+  <a href="https://victorlychagin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-victorlychagin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/victor-lychagin"><img src="https://img.shields.io/badge/LinkedIn-Victor_Lychagin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://behance.net/victorlychagin"><img src="https://img.shields.io/badge/Behance-victorlychagin-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="mailto:viclyberlin@gmail.com"><img src="https://img.shields.io/badge/Email-viclyberlin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -31,6 +31,7 @@
   "name": "Victor Lychagin",
   "role": "Product Designer & Creative Developer",
   "location": "Berlin, Germany 🇩🇪",
+  "portfolio": "https://victorlychagin.vercel.app/",
   "education": "B.A. UX/UI Design @ SRH University Berlin",
   "experience": "3+ years engineering high-conversion digital experiences",
   "superpower": "Bridging Figma & production with AI pair-programming (Claude Code, Cursor, v0)",
@@ -63,7 +64,6 @@
 #### Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)
 ![ProtoPie](https://img.shields.io/badge/ProtoPie-FF5200?style=for-the-badge&logo=protopie&logoColor=white)
 ![Spatial UI](https://img.shields.io/badge/Spatial_UI-00F0FF?style=for-the-badge&logoColor=black)
