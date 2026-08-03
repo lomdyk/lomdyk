@@ -91,12 +91,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lomdyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomdyk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/lomdyk">
+  <img src="https://github-readme-stats.vercel.app/api?username=lomdyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Victor's GitHub Stats" />
+</a>
+<a href="https://github.com/lomdyk">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomdyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lomdyk&theme=tokyonight&hide_border=true" width="97%" />
+<a href="https://github.com/lomdyk">
+  <img src="https://streak-stats.demolab.com/?user=lomdyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
